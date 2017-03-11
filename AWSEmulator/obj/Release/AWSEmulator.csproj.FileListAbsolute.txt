@@ -1,0 +1,12 @@
+D:\Dropbox\code\research\TCPClient\TCPClient\bin\Release\AWSEmulator.exe.config
+D:\Dropbox\code\research\TCPClient\TCPClient\bin\Release\AWSEmulator.exe
+D:\Dropbox\code\research\TCPClient\TCPClient\bin\Release\AWSEmulator.pdb
+D:\Dropbox\code\research\TCPClient\TCPClient\obj\Release\AWSEmulator.csprojResolveAssemblyReference.cache
+D:\Dropbox\code\research\TCPClient\TCPClient\obj\Release\AWSEmulator.exe
+D:\Dropbox\code\research\TCPClient\TCPClient\obj\Release\AWSEmulator.pdb
+D:\Dropbox\code\research\AWSEmulator\AWSEmulator\bin\Release\AWSEmulator.exe.config
+D:\Dropbox\code\research\AWSEmulator\AWSEmulator\bin\Release\AWSEmulator.exe
+D:\Dropbox\code\research\AWSEmulator\AWSEmulator\bin\Release\AWSEmulator.pdb
+D:\Dropbox\code\research\AWSEmulator\AWSEmulator\obj\Release\AWSEmulator.csprojResolveAssemblyReference.cache
+D:\Dropbox\code\research\AWSEmulator\AWSEmulator\obj\Release\AWSEmulator.exe
+D:\Dropbox\code\research\AWSEmulator\AWSEmulator\obj\Release\AWSEmulator.pdb
